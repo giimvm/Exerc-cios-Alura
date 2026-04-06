@@ -1,1 +1,1 @@
-# Exerc-cios-Alura
+# Exercicios-Alura
