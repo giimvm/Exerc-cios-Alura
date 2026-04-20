@@ -16,6 +16,8 @@ Praticar conceitos de programação, lógica e Programação Orientada a Objetos
 
 - 📁 cardapio-fastapi → API desenvolvida com FastAPI para consultar cardápios de restaurantes.
 
+- 📁 extrator_url → extração de informações de uma URL com manipulação de strings
+
 ## 🛠 Tecnologias
 
 - Python
